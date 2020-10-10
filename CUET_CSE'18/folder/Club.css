@@ -1,0 +1,42 @@
+body
+{
+
+}
+h1
+{
+	position: relative;
+	margin-top:  50px;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	font-style: bold;
+	background-color:#800080;
+}
+#abc
+{
+	color: #15151e;
+	align-content: center;
+	margin-left: 100px;
+	padding: 5px 5px 5px 5px;
+	font-family: oxygen;
+	font-size: 20px;
+	background-color:#cce6ff;
+
+}
+.fa {
+  padding: 8px;
+  font-size: 25px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 3px 3px;
+  border-radius: 20%;
+}
+
+.fa:hover {
+    opacity: 0.5;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
